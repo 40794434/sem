@@ -1,2 +1,2 @@
 This is the readme file for sem...
-![workflow](https://github.com/<40794434>/<sem>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/40794434/sem/actions/workflows/main.yml/badge.svg)
