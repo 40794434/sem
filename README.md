@@ -1,5 +1,5 @@
 This is the readme file for 
-![workflow](https://github.com/40794434/sem/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/40794434/sem/actions/workflows/main1.yml/badge.svg)
 
 [![LICENSE](https://img.shields.io/github/license/40794434/sem.svg?style=flat-square)](https://github.com/40794434/sem/blob/master/LICENSE)
 
